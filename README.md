@@ -27,6 +27,8 @@ https://excelbianalytics.com/wp/downloads-18-sample-csv-files-data-sets-for-test
 
 # CALCULATING TOTAL COST, REVENUE, PROFIT FOR EACH ITEM
 <img width="600" alt="8" src="https://github.com/ayushkumarOP/pyspark-project/assets/97456884/525b7aae-41da-4de5-a4af-06ded59879bb">
+<img width="747" alt="9" src="https://github.com/ayushkumarOP/pyspark-project/assets/97456884/df166319-5099-41d1-b50a-7a6b3b590fcb">
+
 
 # SAVING THE CLEANED DATASET
 <img width="484" alt="11" src="https://github.com/ayushkumarOP/pyspark-project/assets/97456884/146d66ab-dbdd-4a46-8070-38713933d755">
